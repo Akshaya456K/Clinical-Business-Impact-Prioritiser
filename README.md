@@ -81,9 +81,4 @@ Clinical-Business-Impact-Prioritiser/
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project overview (this file)
 
-##Responsible AI & Limitations
-This system is a decision-support prototype. All high-priority predictions include an evidence explanation. If the model is uncertain or encounters unexpected input, it can trigger a human review workflow. The dataset is synthetic, so real-world deployment would require rigorous validation on actual hospital data, along with strict privacy, security, and monitoring measures.
 
-##License & Contact
-Licensed under MIT (see LICENSE).
-Author: Akshaya456K (GitHub). For questions or feedback, please open an issue on this repository.
